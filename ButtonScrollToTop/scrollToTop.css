@@ -1,0 +1,8 @@
+.scroll-to-top {
+    visibility: hidden;
+    color: white;
+    background: blue;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+  }
